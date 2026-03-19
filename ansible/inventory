@@ -1,0 +1,5 @@
+[master]
+13.60.245.49 ansible_user=bitnami ansible_ssh_private_key_file=terraform-key.pem
+
+[worker]
+13.63.161.45 ansible_user=bitnami ansible_ssh_private_key_file=terraform-key.pem
