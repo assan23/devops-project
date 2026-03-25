@@ -5,9 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    app_name = os.getenv('APP_NAME', 'Flask API')
-    app_version = os.getenv('APP_VERSION', '1.0')
-    return f"Hello from {app_name} version {app_version}! 🚀"
+    return "Hello World! "
 
 @app.route('/health')
 def health():
