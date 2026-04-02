@@ -133,7 +133,7 @@ HTML_TEMPLATE = """
 <body>
     <div class="container">
         <div class="header">
-            <h1>📝 Gestionnaire de TASKSs</h1>
+            <h1>📝 Gestionnaire de Taches</h1>
             <p>Organisez vos tâches efficacement</p>
         </div>
         
