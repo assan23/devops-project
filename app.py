@@ -13,7 +13,7 @@ HTML_TEMPLATE = """
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Gestionnaire de Tâches</title>
+    <title>Gestionnaire de TASKs</title>
     <style>
         * {
             margin: 0;
@@ -133,7 +133,7 @@ HTML_TEMPLATE = """
 <body>
     <div class="container">
         <div class="header">
-            <h1>📝 Gestionnaire de Tâches</h1>
+            <h1>📝 Gestionnaire de TASKSs</h1>
             <p>Organisez vos tâches efficacement</p>
         </div>
         
